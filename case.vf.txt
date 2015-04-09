@@ -1,1 +1,3 @@
-<apex:page></apex:page>
+<apex:page>
+<!-- Sample File -->
+</apex:page>
